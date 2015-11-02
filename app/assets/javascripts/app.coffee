@@ -1,0 +1,1 @@
+PracticeProject = angular.module('PracticeProject',[])
